@@ -1,0 +1,18 @@
+*{
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ 
+
+}
+button{
+    text-align: center;
+    margin-right: auto;
+    cursor: pointer;
+    padding: 0.9em;
+    -webkit-tap-highlight-color: transparent;
+
+}
+button:active{
+    background-color: transparent;
+}
